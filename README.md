@@ -1,4 +1,4 @@
-# transcriptional_roadmap_hiPSC-SANCM
+# transcriptional roadmap hiPSC-SANCM
 
 This repository contains R scripts used for single cell RNAseq analyses. Corresponding raw data files can be found in GEO (GSE189782).
 
