@@ -1,6 +1,10 @@
 # transcriptional roadmap hiPSC-SANCM
 
-This repository contains R scripts used for single cell RNAseq analyses. Corresponding raw data files can be found in GEO (GSE189782).
+This repository contains R scripts used for single cell RNAseq analyses as described in:
+A single cell transcriptional roadmap of human pacemaker cell differentiation.
+eLife 2022;11:e76781 DOI: https://doi.org/10.7554/eLife.76781. 
+
+Corresponding raw data files can be found in GEO (GSE189782).
 
 Script_seurat_D19endtimepoint.R - Figure 3A-F and Figure 3 - figure supplement 1A-H and Figure 3 - figure supplement 2A and 2B
 
