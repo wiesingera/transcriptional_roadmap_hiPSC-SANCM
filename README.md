@@ -10,6 +10,6 @@ Script_seurat_D19endtimepoint.R - Figure 3A-F and Figure 3 - figure supplement 1
 
 Script_seurat_timeseries.R - Figure 4B-G and Figure 4 - figure supplement 1A-E 
 
-Script_URD_timeseries.R - Figure 5A-C and Fig 6A and 6C
+Script_URD_timeseries.R - Figure 5A-C and Figure 6A and 6C
 
-Script_seurat_SANCM-TGFB2.R - Figure 7A-D and Figure 7 - figure supplement 1A-E
+Script_seurat_SANCM-TGFB2.R - Figure 7A-D and Figure 7 - figure supplement 1A-F
