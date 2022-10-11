@@ -12,7 +12,7 @@ library(patchwork)
 
 #laod seurat object for URD analysis
 setwd("/path/to/directory/")
-subset<-readRDS("03_subset_20dims.rds")
+subset<-readRDS("seurat_subset_20dims_forURD.rds")
 
 ##prepare seurat object for URD analysis
 #cluster numbering was customized
@@ -176,7 +176,7 @@ library(gridExtra) # grid.arrange
 #perform secondary clustering of D19 SANCM dataset
 #import seurat object and subset D19 dataset
 setwd("/path/to/directory/")
-D19<-readRDS("subset_forURD.rds")
+D19<-readRDS("subsetD19_forURD.rds")
 DimPlot(D19, reduction = "tsne",cols = getPalette(colourCount))
 Idents(D19)<-"orig.ident"
 D19<-subset(D19, idents = c("D19_1", "D19_2","D19_3"))
