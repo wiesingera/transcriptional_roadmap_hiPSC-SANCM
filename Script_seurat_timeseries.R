@@ -1,4 +1,4 @@
-##Seurat analysis timer series dataset hiPSC-SANCM
+##Seurat analysis time series dataset hiPSC-SANCM
 ##this script was run using Seurat v3.2.1 
 #remotes::install_version("Seurat", version = "3.2.1")
 #the following packages were used
@@ -16,7 +16,7 @@ library(patchwork)
 
 #load seurat object
 setwd("/path/to/directory/")
-data<-readRDS("210705_hiPSC_SANCM.rds")
+data<-readRDS("timeseries_hiPSC_SANCM.rds")
 
 data
 #An object of class Seurat 
