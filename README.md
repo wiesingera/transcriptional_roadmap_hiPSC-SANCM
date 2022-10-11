@@ -13,3 +13,5 @@ Script_seurat_timeseries.R - Figure 4B-G and Figure 4 - figure supplement 1A-E
 Script_URD_timeseries.R - Figure 5A-C and Figure 6A and 6C
 
 Script_seurat_SANCM-TGFB2.R - Figure 7A-D and Figure 7 - figure supplement 1A-F
+
+All input data (filtered data matrices) will be available upon request. 
